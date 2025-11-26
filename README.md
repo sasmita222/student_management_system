@@ -34,7 +34,8 @@ Developed by [SASMITA BAL]
 B.Tech Computer Science & Engineering [AIML]
 reg no. 250301370189
 
-
-
-
-
+OUTPUT
+![output01](https://github.com/user-attachments/assets/b228acd4-afc1-4ff6-9716-3ea9f74c9d20)
+![output2](https://github.com/user-attachments/assets/9232db83-5907-4883-b4fa-193610751ad0)
+![output3](https://github.com/user-attachments/assets/fa616367-5faa-4679-8ffd-87fcbc9f89ef)
+![output4](https://github.com/user-attachments/assets/a54cd135-2393-4cd8-b4ac-715de214e26c)
